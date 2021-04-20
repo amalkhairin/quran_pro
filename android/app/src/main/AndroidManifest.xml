@@ -2,7 +2,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     package="com.quran.pro">
    <application
-        android:label="quran_pro"
+        android:label="Quran Pro"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
